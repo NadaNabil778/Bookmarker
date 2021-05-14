@@ -1,0 +1,10 @@
+body{
+    font-family: Arial;
+}
+#under_line{
+    height: 1.5px;
+   background-color: rgb(143, 140, 140);
+}
+#info{
+    background: #EEE;
+}
